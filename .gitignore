@@ -1,0 +1,18 @@
+# Dossier de build CMake
+/build/
+
+# Fichiers Qt Creator / Visual Studio
+*.user
+*.vcxproj*
+*.sln
+*.opensdf
+*.sdf
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# Logs
+*.log
